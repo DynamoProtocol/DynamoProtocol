@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="751.461 81.006 97.497 156.655" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(40.663315,-70.430924,-70.430924,-40.663315,584.66486,421.60797)" spreadMethod="pad" id="linearGradient284">
+      <stop style="stop-opacity:1;stop-color:#ff006f" offset="0" id="stop278"/>
+      <stop style="stop-opacity:1;stop-color:#ff006f" offset="0.2525" id="stop280"/>
+      <stop style="stop-opacity:1;stop-color:#c2006f" offset="1" id="stop282"/>
+    </linearGradient>
+    <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(43.88554,-76.011986,-76.011986,-43.88554,586.27979,415.09018)" spreadMethod="pad" id="linearGradient310">
+      <stop style="stop-opacity:1;stop-color:#2eaeff" offset="0" id="stop300"/>
+      <stop style="stop-opacity:1;stop-color:#2eaeff" offset="0.1174" id="stop302"/>
+      <stop style="stop-opacity:1;stop-color:#006bff" offset="0.4874" id="stop304"/>
+      <stop style="stop-opacity:1;stop-color:#006bff" offset="0.6169" id="stop306"/>
+      <stop style="stop-opacity:1;stop-color:#ff006f" offset="1" id="stop308"/>
+    </linearGradient>
+  </defs>
+  <g id="g266" transform="matrix(1.333333, -0.000001, -0.000001, -1.333333, 0.000222, 666.66687)">
+    <g id="g268">
+      <g id="g274">
+        <g id="g276">
+          <path d="m 615.212,439.245 v -83.963 l -15.054,-8.699 -15.055,8.699 v 17.377 l 15.055,8.7 10.753,-6.216 v 9.936 l -10.753,6.206 -23.658,-13.646 v -27.336 l 23.658,-13.645 23.657,13.645 v 88.942 z" style="fill:url(#linearGradient284);stroke:none" id="path286"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="g288" transform="matrix(1.333333, -0.000001, -0.000001, -1.333333, 0.000222, 666.66687)">
+    <g id="g290">
+      <g id="g296">
+        <g id="g298">
+          <path d="M 628.116,439.245 V 347.83 l -27.958,-16.14 -27.96,16.14 v 32.281 l 27.96,16.141 10.753,-6.214 v 9.946 l -10.753,6.205 -36.562,-21.11 v -42.217 l 36.562,-21.108 36.561,21.108 v 96.383 z" style="fill:url(#linearGradient310);stroke:none" id="path312"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
