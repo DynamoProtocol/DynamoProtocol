@@ -90,7 +90,7 @@ Just as Ethereum turned *code into money*, Dynamo turns **intelligence into capi
 - Reflexive tokenomics with fee-burn sinks.  
 - Oracle-grounded outputs (Chainlink, Pyth).  
 
-See [whitepaper](./whitepaper.pdf) for full details.
+See [whitepaper](./DynamoProtocolWhitepaper.pdf) for full details.
 
 ---
 
@@ -112,7 +112,7 @@ Contributions are welcome across smart contracts, agent SDKs, frontend dashboard
 - 🌐 Website: [dynamo.zone](https://dynamo.zone)  
 - 🐦 Twitter: [@DynamoProtocol](https://x.com/dynamoprotocol)  
 - 💬 Telegram: [Join Chat](https://t.me/DynamoProtocol)  
-- 📄 Whitepaper: [Read Here](./whitepaper.pdf)
+- 📄 Whitepaper: [Read Here](./DynamoProtocolWhitepaper.pdf)
 
 ---
 
